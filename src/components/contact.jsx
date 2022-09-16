@@ -120,7 +120,7 @@ class Contact extends React.Component {
                       <div className="socials">
                         <ul>
                           <li>
-                            {/* <a
+                            <a
                               href=""
                               target="_blank"
                               rel="noopener noreferrer"
@@ -132,14 +132,14 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://github.com/akkiansari"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
                                 <i className="ion-social-github"></i>
                               </span>
-                            </a> */}
+                            </a>
                           </li>
                           <li>
                             <a
